@@ -1,0 +1,38 @@
+Job Name: DavesJob
+Running on 2 nodes with 16 tasks per node
+Total tasks: 32
+Final Histogram (32 bins):
+Bin 0: 250004
+Bin 1: 250027
+Bin 2: 249748
+Bin 3: 250747
+Bin 4: 249364
+Bin 5: 249342
+Bin 6: 249583
+Bin 7: 250390
+Bin 8: 250475
+Bin 9: 250245
+Bin 10: 249916
+Bin 11: 249050
+Bin 12: 250404
+Bin 13: 249300
+Bin 14: 250718
+Bin 15: 249972
+Bin 16: 250480
+Bin 17: 250100
+Bin 18: 249591
+Bin 19: 250247
+Bin 20: 250393
+Bin 21: 250199
+Bin 22: 249925
+Bin 23: 250608
+Bin 24: 249476
+Bin 25: 250581
+Bin 26: 249879
+Bin 27: 249309
+Bin 28: 250548
+Bin 29: 249761
+Bin 30: 250031
+Bin 31: 249587
+Total values tallied: 8000000 (expected ~8000000)
+Time elapsed: 0.0848398 seconds
